@@ -1,2 +1,0 @@
-# mustafa.github.ol
-repo
