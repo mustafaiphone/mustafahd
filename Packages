@@ -24,17 +24,19 @@ Name: CrackTool4 (iOS 12)
 Version: 4.0~beta5
 Architecture: iphoneos-arm
 Description: Crack Tweaks on one click
-Homepage: http://twitter.com/mustafaahmmed96
-Maintainer: mustafa
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio
 Author: julioverne
-Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, 
+Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Section: Utilities
+Depiction: https://mustafaiphone.github.io/mustafahd/
 Conflicts: com.unlimapps.uaupdatetools
-Filename: deb/ com.julioverne.cracktool4_4.0~beta5_iphoneos-arm.deb
+Filename: deb/com.julioverne.cracktool4_4.0~beta5_iphoneos-arm.deb
 Size: 125248
 MD5sum: 1e1621b61280df46fefde1c779c01593
 SHA1: db1a6297521224972beaa864c0d367de5c31f14d
 SHA256: 9d6a0ed08402ae25dc3d375f9b0dfc2081024c6a8c597c10ab1ee5c5c6f0c8da
 Priority: optional
 Section: Utilities
-Depiction: https://mustafaiphone.github.io/mustafahd/
+
 Name: CrackTool4 (iOS 12)
