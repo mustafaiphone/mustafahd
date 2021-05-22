@@ -26,7 +26,7 @@ Architecture: iphoneos-arm
 Description: Crack Tweaks on one click
 Homepage: http://twitter.com/mustafaahmmed96
 Maintainer: mustafa
-Author: Cokeppokes
+Author: julioverne
 Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, 
 Conflicts: com.unlimapps.uaupdatetools
 Filename: deb/ com.julioverne.cracktool4_4.0~beta5_iphoneos-arm.deb
