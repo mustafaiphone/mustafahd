@@ -24,7 +24,7 @@ Name: CrackTool4 (iOS 12)
 Version: 4.0~beta5
 Architecture: iphoneos-arm
 Description: Crack Tweaks on one click
-Homepage: http://twitter.com/ijulioverne
+Homepage: http://twitter.com/mustafaahmmed96
 Maintainer: Julio
 Author: julioverne
 Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
