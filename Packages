@@ -40,3 +40,16 @@ Priority: optional
 Section: Utilities
 
 Name: CrackTool4 (iOS 12)
+
+
+Package: com.kurdios.k-keyboard
+Version: 1.34~beta1
+Architecture: iphoneos-arm
+Section: Kurd Keyboards
+Maintainer: Karwan BK <karwanbk@yahoo.com>
+Depends: mobilesubstrate , firmware (>= 7.0), preferenceloader
+Architecture: iphoneos-arm
+Name: Kurdish Keyboard (iOS 7-12)
+Author: Karwan BK <karwanbk@yahoo.com>
+Sponsor: KurdiOS Team <repo.kurdios.com>
+Tag: purpose::extension
